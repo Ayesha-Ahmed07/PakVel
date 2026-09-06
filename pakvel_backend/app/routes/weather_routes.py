@@ -7,7 +7,7 @@ from app.db.mongodb import weather_collection, itineraries_collection
 
 router = APIRouter(prefix="/weather", tags=["Weather"])
 
-OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_KEY", "65760d5aa092b9e0f31fd1da2e762d3d")
+OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_KEY", "1110000XXXYYYZZZ")
 
 
 # -------- 1) LIVE WEATHER FETCH -------- #
