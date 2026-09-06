@@ -2,8 +2,6 @@
 
 PakVel is a mobile app that connects travelers with local brokers across Pakistan to plan and book trips. Travelers can browse broker itineraries, book self-guided trips, chat directly with brokers in real time, check the weather for their destination, and get suggestions from a built-in AI travel assistant. Brokers get their own dashboard to manage listings, respond to booking requests, and track their trips.
 
-This repository contains both halves of the project: the mobile app and the backend API that powers it.
-
 ---
 
 ## Repository structure
