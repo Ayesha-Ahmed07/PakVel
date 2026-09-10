@@ -123,4 +123,4 @@ Both `.env` files and any generated files (vector index, virtual environments, b
 
 ## Author
 
-**Ayesha Ahmed**
+**Ayesha Ahmed, Hafsa Shakeel and Kundan Kumar**
